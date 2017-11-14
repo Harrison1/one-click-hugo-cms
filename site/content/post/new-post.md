@@ -7,13 +7,11 @@ image: /img/instagram_monster_scene_rough.jpg
 ## Super cool Clouds
 
 ```javascript
-
 function add(a, b) {
-
   return (a+b);
-
 }
 
 console.log(add(1,2)):
-
 ```
+
+![clouds](/img/ocean-clouds.jpg)
