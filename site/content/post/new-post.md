@@ -14,6 +14,6 @@ function add(a, b) {
 console.log(add(1,2)):
 ```
 
-![clouds](/img/ocean-clouds.jpg)
+![ccc](/img/ocean-clouds.jpg)
 
 ![joker](/img/JokerFace.jpg)
