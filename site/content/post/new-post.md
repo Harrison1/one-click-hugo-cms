@@ -2,7 +2,7 @@
 title: New Post
 date: 2017-11-14T01:28:53.378Z
 description: Check me out on Netlify
-image: /img/ocean-clouds.jpg
+image: /img/instagram_monster_scene_rough.jpg
 ---
 ## Super cool Clouds
 
